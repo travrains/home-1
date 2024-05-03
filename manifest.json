@@ -1,8 +1,8 @@
 {
-  "name": "Upract",
-  "short_name": "Upract",
+  "name": "Careover",
+  "short_name": "Careover",
   "description": "An Identity of healthy India.",
-  "start_url": "https://berrybone.github.io/in",
+  "start_url": "https://berrybone.github.io/home",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
