@@ -2,7 +2,7 @@
   "name": "Careover",
   "short_name": "Careover",
   "description": "An Identity of healthy India.",
-  "start_url": "https://berrybone.github.io/home",
+  "start_url": "https://careover.github.io/in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
@@ -15,7 +15,7 @@
     }
   ],
   "splash_screen": {
-    "src": "img/test.png",
+    "src": "img/logo.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "maskable"
