@@ -1,8 +1,8 @@
 {
-  "name": "Careover",
-  "short_name": "Careover",
-  "description": "An Identity of healthy India.",
-  "start_url": "https://careover.github.io/in",
+  "name": "Travrains",
+  "short_name": "Travrains",
+  "description": "Where Journeys Begin and Memories Take Flight.",
+  "start_url": "https://travrains.github.io/in",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
